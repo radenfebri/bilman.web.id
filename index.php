@@ -47,7 +47,6 @@
     <link rel="icon" type="image/x-icon" href="./assets/imgs/favicon.ico" />
     <link rel="icon" type="image/png" sizes="32x32" href="./assets/imgs/favicon.ico" />
     <link rel="icon" type="image/png" sizes="16x16" href="./assets/imgs/favicon.ico" />
-    <link rel="manifest" href="/site.webmanifest" />
     <meta name="theme-color" content="#F9FAFB" />
     <meta name="msapplication-TileColor" content="#F9FAFB" />
 
