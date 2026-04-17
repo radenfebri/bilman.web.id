@@ -663,8 +663,8 @@
             </div>
             <div class="flex flex-col gap-2">
               <span class="text-xs text-neutral-500 uppercase tracking-wider">Legalitas</span>
-              <a href="/kebijakan-privasi.php" class="text-sm text-neutral-300 hover:text-blue-500 transition-colors">Kebijakan Privasi</a>
-              <a href="/syarat-dan-ketentuan.php" class="text-sm text-neutral-300 hover:text-blue-500 transition-colors">Syarat & Ketentuan</a>
+              <a href="/kebijakan-privasi" class="text-sm text-neutral-300 hover:text-blue-500 transition-colors">Kebijakan Privasi</a>
+              <a href="/syarat-dan-ketentuan" class="text-sm text-neutral-300 hover:text-blue-500 transition-colors">Syarat & Ketentuan</a>
             </div>
           </div>
         </div>
